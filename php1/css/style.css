@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: beige;
+}
+
+.pervoe,
+.vtoroe,
+.tretie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spisok{
+    padding-top: 15px;
+}
+
+.cont{
+    padding-top: 15px;
+}
+
+.pen{
+    color: darkred;
+}
+
+.qw{
+    color: rgb(74, 123, 25);
+}
+
+.crug{
+    padding-top: 25px;
+}
+
+.form{
+    padding-top: 15px;
+}
